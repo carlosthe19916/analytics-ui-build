@@ -1,11 +1,11 @@
 {
   "app_name": "xavier",
-  "src_hash": "7698a37075908bca233421ef8c870a877da78686",
+  "src_hash": "d3f1779e21654f42892ce5f9d30a2b4d06b487af",
   "src_tag": "",
-  "src_branch": "master",
+  "src_branch": "ci-stable",
   "travis": {
     "event_type": "push",
-    "build_number": "11",
-    "build_web_url": "https://travis-ci.org/carlosthe19916/analytics-ui/builds/535816156"
+    "build_number": "15",
+    "build_web_url": "https://travis-ci.org/carlosthe19916/analytics-ui/builds/535823144"
   }
 }
